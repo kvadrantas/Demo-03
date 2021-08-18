@@ -1,0 +1,75 @@
+
+/* BASE */
+@import './base/reset.css';
+@import './base/variables.css';
+@import './base/layout.css';
+
+/* 3-RD PARDTY */
+@import './3rd-party/font-awesome.min.css';
+
+/* COMPONENTS */
+@import './components/button.css';
+@import './components/form.css';
+@import './components/progress-bar.css';
+
+
+/***************************/
+/* CUSTOM STYLE*/
+/***************************/
+
+
+/* HERO */
+.hero {
+
+}
+
+/* SECTION ABOUT ME */
+.about-me {
+
+}
+
+/* SECTION MY SKILLS */
+.my-skills {
+
+}
+
+/* SECTION MY RESUME */
+.my-resume {
+
+}
+
+/* SECTION COUNTER */
+.counter {
+
+}
+
+/* SECTION MY SERVICES */
+.my-services {
+
+}
+
+/* SECTION MY PORTFOLIO */
+.my-portfolio {
+
+}
+
+/* SECTION MY TESTIMONIALS */
+.testimonial {
+
+}
+
+/* SECTION LATEST BLOG */
+.latest-blog {
+
+}
+
+/* SECTION GET IN TOUCH */
+.contact {
+
+}
+
+/* FOOTER */
+footer {
+    
+}
+
